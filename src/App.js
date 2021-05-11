@@ -1,8 +1,9 @@
 import React from 'react';
+import LogoHeader from './components/LogoHeader';
 
 function App() {
     return (
-      <h1>tes</h1>
+      <LogoHeader/>
     );
   }
   
