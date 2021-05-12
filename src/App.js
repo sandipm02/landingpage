@@ -4,7 +4,7 @@ import Forms from './components/Forms';
 
 function App() {
   return (
-    <div>
+    <div className="bg">
       <LogoHeader />
       <Forms />
     </div>
