@@ -2,6 +2,7 @@
 
 * {
     overflow: hidden;
+    -webkit-appearance: none;
 }
 
 p {
